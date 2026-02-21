@@ -1,7 +1,9 @@
 {
   "extends": "./tsconfig.json",
   "compilerOptions": {
+    "moduleResolution": "node16",
     "outDir": "./out-tsc/spec",
+    "isolatedModules": true,
     "types": [
       "jest",
       "node"
