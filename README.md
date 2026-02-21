@@ -9,7 +9,7 @@ This project is more than just a boilerplate – it's a **production-ready found
 
 ## Features 🛠️
 
-✅ **Latest Angular 20** – Stay up-to-date with the newest Angular features.  
+✅ **Latest Angular 21** – Stay up-to-date with the newest Angular features.  
 ✅ **Angular Material** – Build beautiful, responsive UIs with Material Design.  
 ✅ **Unit Testing with Jest** – Fast and reliable testing for your components.  
 ✅ **End-to-End Testing with Cypress** – Ensure your app works flawlessly from start to finish.  
