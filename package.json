@@ -122,5 +122,16 @@
     "*.{js,json,css,scss,less,md,ts,html,component.html}": [
       "prettier --write"
     ]
+  },
+  "overrides": {
+    "@typescript-eslint/eslint-plugin": {
+      "typescript": "5.9.3"
+    },
+    "@typescript-eslint/parser": {
+      "typescript": "5.9.3"
+    },
+    "@typescript-eslint/typescript-estree": {
+      "typescript": "5.9.3"
+    }
   }
 }
