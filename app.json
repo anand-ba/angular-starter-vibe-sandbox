@@ -1,6 +1,11 @@
 {
-  "name": "Angular 18 Starter",
-  "description": "Angular 18 Starter project with Material, Transloco, Jest & Compodoc",
+  "name": "Angular 21 Starter",
+  "description": "Angular 21 Starter project with Material, Transloco, Jest & Compodoc",
   "repository": "https://github.com/wlucha/angular-starter",
-  "keywords": ["angular", "jest", "compodoc", "transloco"]
+  "keywords": [
+    "angular",
+    "jest",
+    "compodoc",
+    "transloco"
+  ]
 }
