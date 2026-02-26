@@ -1,7 +1,6 @@
 ![Angular Starter Banner](https://user-images.githubusercontent.com/7531596/128626297-df86020b-1cdc-43b5-a692-6c4c45534ec1.png)
 
 <p align="center">
-  <a href="https://github.com/wlucha/angular-starter/actions"><img src="https://img.shields.io/github/actions/workflow/status/wlucha/angular-starter/ci.yml?branch=master&label=CI" alt="CI"></a>
   <a href="https://github.com/wlucha/angular-starter/blob/master/LICENSE"><img src="https://img.shields.io/github/license/wlucha/angular-starter" alt="License"></a>
   <a href="https://github.com/wlucha/angular-starter/stargazers"><img src="https://img.shields.io/github/stars/wlucha/angular-starter?style=social" alt="Stars"></a>
 </p>
